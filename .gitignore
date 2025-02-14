@@ -1,0 +1,75 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Logs and database files
+*.log
+*.sqlite3
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# C extensions
+*.so
+
+# VS Code and IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Test coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+
+# Mypy cache
+.mypy_cache/
+
+# Pytest cache
+.pytest_cache/
+
+# Django-specific files
+*.mo
+*.pot
+celerybeat-schedule
+db.sqlite3
+media/
+staticfiles/
+
+# Flask and FastAPI-specific files
+instance/
+*.pem
+
+# Security-sensitive files
+config.yaml
+secrets.json
+.env.local
+
+# Docker
+docker-compose.override.yml
+
+# Jupyter Notebook outputs
+*.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
